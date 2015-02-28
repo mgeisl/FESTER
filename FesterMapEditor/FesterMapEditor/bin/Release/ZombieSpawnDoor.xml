@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sprite>
+  <texture>Images/ZombieSpawnDoor.png</texture>
+  <animation>
+    <frameWidth>15</frameWidth>
+    <frameHeight>20</frameHeight>
+    <frames>6</frames>
+    <speed>0.01</speed>
+    <name>Default</name>
+    <offset>0</offset>
+  </animation>
+</sprite>

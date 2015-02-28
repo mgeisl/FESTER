@@ -1,0 +1,65 @@
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\obj\Release\Fester.Properties.Resources.resources
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\obj\Release\Fester.csproj.GenerateResource.Cache
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\PlayerSprite.xml
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\StartButton.xml
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\Fester.exe
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\Fester.pdb
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\Totem.dll
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\obj\Release\Fester.exe
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\obj\Release\Fester.pdb
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\ExitButton.xml
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\HelpButton.xml
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\PlayerSprite.xml
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\StartButton.xml
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\Fester.exe
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\Fester.pdb
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\Totem.dll
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\Totem.pdb
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\obj\Release\Fester.Properties.Resources.resources
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\obj\Release\Fester.csproj.GenerateResource.Cache
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\obj\Release\Fester.exe
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\obj\Release\Fester.pdb
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\ExitButton.xml
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\HelpButton.xml
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\StartButton.xml
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\PlayerSprite.xml
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\Fester.exe
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\Fester.pdb
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\Totem.pdb
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\Fester.Properties.Resources.resources
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\Fester.csproj.GenerateResource.Cache
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\Fester.exe
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\Fester.pdb
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\ExitButton.xml
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\HelpButton.xml
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\PlayerSprite.xml
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\StartButton.xml
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\ZombieWalk.xml
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\Fester.exe
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\Fester.pdb
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\Totem.dll
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\Totem.pdb
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\Fester.Properties.Resources.resources
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\Fester.csproj.GenerateResource.Cache
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\Fester.exe
+C:\Documents and Settings\Grant Tyra\My Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\Fester.pdb
+C:\Users\Grant Tyra\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\ExitButton.xml
+C:\Users\Grant Tyra\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\HelpButton.xml
+C:\Users\Grant Tyra\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\PlayerSprite.xml
+C:\Users\Grant Tyra\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\StartButton.xml
+C:\Users\Grant Tyra\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\ZombieWalk.xml
+C:\Users\Grant Tyra\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\Fester.exe
+C:\Users\Grant Tyra\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\Fester.pdb
+C:\Users\Grant Tyra\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\bin\Release\Totem.dll
+C:\Users\Grant Tyra\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Grant Tyra\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\Fester.Properties.Resources.resources
+C:\Users\Grant Tyra\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\Fester.csproj.GenerateResource.Cache
+C:\Users\Grant Tyra\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\Fester.exe
+C:\Users\Grant Tyra\Documents\Visual Studio 2008\Projects\Fester\Fester\Fester\obj\Release\Fester.pdb
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\ExitButton.xml
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\HelpButton.xml
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\Fester\Fester\bin\Release\ZombieWalk.xml

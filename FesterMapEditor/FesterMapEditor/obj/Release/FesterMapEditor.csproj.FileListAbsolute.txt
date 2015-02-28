@@ -1,0 +1,11 @@
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\FesterMapEditor\FesterMapEditor\bin\Release\Tiles.xml
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\FesterMapEditor\FesterMapEditor\bin\Release\ZombieSpawnDoor.xml
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\FesterMapEditor\FesterMapEditor\bin\Release\FesterMapEditor.exe
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\FesterMapEditor\FesterMapEditor\bin\Release\FesterMapEditor.pdb
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\FesterMapEditor\FesterMapEditor\bin\Release\Totem.dll
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\FesterMapEditor\FesterMapEditor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\FesterMapEditor\FesterMapEditor\obj\Release\FesterMapEditor.Properties.Resources.resources
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\FesterMapEditor\FesterMapEditor\obj\Release\FesterMapEditor.StartupDialog.resources
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\FesterMapEditor\FesterMapEditor\obj\Release\FesterMapEditor.csproj.GenerateResource.Cache
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\FesterMapEditor\FesterMapEditor\obj\Release\FesterMapEditor.exe
+C:\Users\Maxwell\Documents\Visual Studio 2008\Projects\FesterMapEditor\FesterMapEditor\obj\Release\FesterMapEditor.pdb

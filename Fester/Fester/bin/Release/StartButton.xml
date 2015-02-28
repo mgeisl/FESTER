@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sprite>
+  <texture>Images/StartButton.png</texture>
+  <animation>
+    <frameWidth>100</frameWidth>
+    <frameHeight>35</frameHeight>
+    <frames>2</frames>
+    <speed>0</speed>
+    <name>Default</name>
+    <offset>0</offset>
+  </animation>
+</sprite>

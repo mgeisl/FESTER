@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sprite>
+  <texture>Images/ZombieWalkSprite.png</texture>
+  <animation>
+    <frameWidth>20</frameWidth>
+    <frameHeight>20</frameHeight>
+    <frames>3</frames>
+    <speed>0.001</speed>
+    <name>WalkRight</name>
+    <offset>0</offset>
+  </animation>
+  <animation>
+    <frameWidth>20</frameWidth>
+    <frameHeight>20</frameHeight>
+    <frames>3</frames>
+    <speed>0.001</speed>
+    <name>WalkLeft</name>
+    <offset>20</offset>`
+  </animation>
+</sprite>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sprite>
+  <texture>Images/ZombieSprite.png</texture>
+  <animation>
+    <frameWidth>20</frameWidth>
+    <frameHeight>20</frameHeight>
+    <frames>3</frames>
+    <speed>0.001</speed>
+    <name>WalkRight</name>
+    <offset>0</offset>
+  </animation>
+  <animation>
+    <frameWidth>20</frameWidth>
+    <frameHeight>20</frameHeight>
+    <frames>3</frames>
+    <speed>0.001</speed>
+    <name>WalkLeft</name>
+    <offset>20</offset>`
+  </animation>
+  <animation>
+    <frameWidth>20</frameWidth>
+    <frameHeight>20</frameHeight>
+    <frames>4</frames>
+    <speed>0.01</speed>
+    <name>thrashRight</name>
+    <offset>40</offset>
+  </animation>
+  <animation>
+    <frameWidth>20</frameWidth>
+    <frameHeight>20</frameHeight>
+    <frames>4</frames>
+    <speed>0.01</speed>
+    <name>thrashLeft</name>
+    <offset>60</offset>`
+  </animation>
+</sprite>
